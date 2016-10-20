@@ -1,4 +1,5 @@
-# Dakota Hill's Major School Projects
-Computing Science (Honours)
+Programming Workshops
 
-University Of Ontario Institute of Technology
+All Done In C++
+
+First Year Second Semester
