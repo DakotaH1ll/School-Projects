@@ -1,4 +1,4 @@
-# Principles Of Software Design
+# Software Design
 
 Written In Java (Mostly Conceptual)
 
