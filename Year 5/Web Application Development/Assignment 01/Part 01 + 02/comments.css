@@ -1,0 +1,88 @@
+.pageHeader {
+  grid-column: 1 / span 3;
+  grid-row: 1;
+  background-color: #000070;
+  color: #808080;
+}
+
+.pageHeader > .title {
+  padding-top: 1em;
+  padding-left: 1em;
+  font-size: 24pt;
+  color: white;
+}
+
+img {
+  padding-top: 1em;
+  float: left;
+  width: 100px;
+  height: auto;
+}
+
+.navigation li {
+  display: inline-block;
+  margin-right: 0.2em;
+  padding-bottom: 1em;
+
+}
+
+.navigation li > a {
+  font-weight: bold;
+  color: #f0f0ff;
+  text-decoration: none;
+  padding: 0.2em;
+  border-radius: 0.5em;
+}
+
+.comment2{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.author{
+  font-size: 15pt;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 1em;
+  background-color:  #000070;
+  color: white;
+}
+
+.title{
+  font-size: 15pt;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 1em;
+  background-color:  #000070;
+  color: white;
+}
+
+
+.date{
+  font-size: 15pt;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 1em;
+  background-color:  #000070;
+  color: white;
+}
+
+
+.body{
+  margin-top: 0;
+  border-style: solid;
+  border-color: #000070;
+  background-color: lightBlue;
+  border-width: 1px;
+  padding: 1em;
+  list-style-type: none
+}
+
+.newComment{
+  padding: 1em;
+  border-style: solid;
+  border-color: #000070;
+  border-width: 1px;
+  background-color: lightBlue;
+
+}

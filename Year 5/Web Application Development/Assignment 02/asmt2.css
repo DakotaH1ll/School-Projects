@@ -1,0 +1,22 @@
+#map-canvas {
+  height: 30em;
+  width: 30em;
+  visibility: visible;
+}
+
+#form {
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 3em;
+}
+
+#weather{
+  padding: 10px;
+  width: 200px;
+}
+
+
+#img {
+  height: 12px;
+  width: 12px;
+}

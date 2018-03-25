@@ -1,0 +1,40 @@
+#schedule{
+width:100%;
+border: 1px solid #000070;
+}
+
+.pageHeader {
+  grid-column: 1 / span 3;
+  grid-row: 1;
+  background-color: #000070;
+  color: #808080;
+}
+
+.pageHeader > .title {
+  padding-top: 1em;
+  padding-left: 1em;
+  font-size: 24pt;
+  color: white;
+}
+
+img {
+  padding-top: 1em;
+  float: left;
+  width: 100px;
+  height: auto;
+}
+
+.navigation li {
+  display: inline-block;
+  margin-right: 0.2em;
+  padding-bottom: 1em;
+
+}
+
+.navigation li > a {
+  font-weight: bold;
+  color: #f0f0ff;
+  text-decoration: none;
+  padding: 0.2em;
+  border-radius: 0.5em;
+}
