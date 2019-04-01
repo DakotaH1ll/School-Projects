@@ -1,0 +1,8 @@
+[package]
+name = "programming_final"
+version = "0.1.0"
+authors = ["DakotaH1ll <dakota.hill@uoit.net>"]
+
+[dependencies]
+time = "0.1"
+rand="0.3.0"
